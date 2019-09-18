@@ -1,1 +1,90 @@
-tes
+[
+  {
+    "day": "2",
+    "start": "07.00",
+    "end": "08.40",
+    "room": "07.01.03",
+    "mapel": "HARDWARE / SOFTWARE I",
+    "guru": "Uyock Anggoro Saputro, M.Kom"
+  },
+  {
+    "day": "2",
+    "start": "08.50",
+    "end": "10.30",
+    "room": "05.04.05",
+    "mapel": "KOMUNIKASI DATA",
+    "guru": "Rico Agung F, S.Kom"
+  },
+  {
+    "day": "3",
+    "start": "13.20",
+    "end": "15.00",
+    "room": "L 7.4.1",
+    "mapel": "PEMROGRAMAN (Praktikum)",
+    "guru": "Kamarudin, M.Kom"
+  },
+  {
+    "day": "3",
+    "start": "15.30",
+    "end": "17.10",
+    "room": "07.01.02",
+    "mapel": "BAHASA INGGRIS II",
+    "guru": "Hermenegildus Agus Wibowo, S.sas, M.Hum"
+  },
+  {
+    "day": "4",
+    "start": "07.00",
+    "end": "08.40",
+    "room": "L 7.4.3",
+    "mapel": "HARDWARE / SOFTWARE I (Praktikum)",
+    "guru": "Uyock Anggoro Saputro, M.Kom"
+  },
+  {
+    "day": "4",
+    "start": "15.30",
+    "end": "17.10",
+    "room": "05.02.01",
+    "mapel": "STRUKTUR DATA",
+    "guru": "Mulia Sulistiyono, M.Kom"
+  },
+  {
+    "day": "5",
+    "start": "07.00",
+    "end": "08.40",
+    "room": "L 7.3.2",
+    "mapel": "STRUKTUR DATA (Praktikum)",
+    "guru": "Mulia Sulistiyono, M.Kom"
+  },
+  {
+    "day": "6",
+    "start": "07.00",
+    "end": "08.40",
+    "room": "04.04.05",
+    "mapel": "SISTEM OPERASI",
+    "guru": "Hafiz Ridha Pramudita, M.Kom"
+  },
+  {
+    "day": "6",
+    "start": "08.50",
+    "end": "10.30",
+    "room": "04.04.04",
+    "mapel": "ORGANISASI & ARSITEKTUR KOMPUTER",
+    "guru": "Arifiyanto Hadinegoro, S.Kom, MT"
+  },
+  {
+    "day": "6",
+    "start": "13.20",
+    "end": "15.00",
+    "room": "L 7.4.2",
+    "mapel": "SISTEM OPERASI (Praktikum)",
+    "guru": "Hafiz Ridha Pramudita, M.Kom"
+  },
+  {
+    "day": "6",
+    "start": "15.30",
+    "end": "17.10",
+    "room": "L 7.4.3",
+    "mapel": "KOMUNIKASI DATA (Praktikum)",
+    "guru": "Rico Agung F, S.Kom"
+  }
+]
