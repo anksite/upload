@@ -5,3 +5,5 @@ WHEN MATCHED THEN
 UPDATE SET TARGET.score = 135
 WHEN NOT MATCHED BY TARGET THEN
 INSERT(id, score) VALUES('125', 135);
+              
+SELECT player.name, rank.score FROM tb_rank rank, tb_player player where rank.user_id = player.user_id
