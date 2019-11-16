@@ -9,3 +9,5 @@ INSERT(id, score) VALUES('125', 135);
 SELECT player.name, rank.score FROM tb_rank rank, tb_player player where rank.user_id = player.user_id
 
 INSERT INTO tb_rank(user_id,score) VALUES ('tes',100) ON DUPLICATE KEY UPDATE score = 100 
+              
+INSERT INTO tb_player VALUES('fesserg100', 'Way Free')
