@@ -1,0 +1,56 @@
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Data.SqlClient;
+using System.Diagnostics;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SistemOrderMenuRestoran.Model.Context
+{
+    public class DbContext : IDisposable
+    {
+        private SqlConnection _conn;
+        public SqlConnection Conn
+        {
+            get { return _conn ?? (_conn = GetOpenConnection()); }
+        }
+
+        private SqlConnection GetOpenConnection()
+        {
+            SqlConnection conn = null; 
+            try 
+            {
+                string connectionString = @"Data Source=ADNAN-PC\SQLEXPRESS;Initial Catalog=db_resto; Integrated Security=True";
+                Debug.Print(connectionString);
+                conn = new SqlConnection(connectionString);
+                conn.Open();
+            }
+            catch (Exception ex)
+            {
+                Debug.Print("Open Connection Error: {0}", ex.Message);
+            }
+
+            return conn;
+        }
+
+        // Method ini digunakan untuk menghapus objek koneksi dari memory ketika sudah tidak digunakan
+        public void Dispose()
+        {
+            if (_conn != null)
+            {
+                try
+                {
+                    if (_conn.State != ConnectionState.Closed) _conn.Close();
+                }
+                finally
+                {
+                    _conn.Dispose();
+                }
+            }
+
+            GC.SuppressFinalize(this);
+        }
+    }
+}
