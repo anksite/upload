@@ -1,98 +1,98 @@
 [
     {
-        "day": "2",
-        "start": "08.50",
-        "end": "10.30",
-        "room": "04.04.06",
-        "mapel": "JARINGAN KOMPUTER",
-        "guru": "Yudi Sutanto, M. Kom"
+        "day": "3",
+        "start": "07.00",
+        "end": "08.40",
+        "room": "05.03.02",
+        "mapel": "STATISTIK",
+        "guru": "Kumara Ari Yuana,S.T, M.T"
     },
     {
         "day": "3",
         "start": "08.50",
         "end": "10.30",
-        "room": "L 7.5.3",
-        "mapel": "MULTIMEDIA",
-        "guru": "Bernadhed, M.Kom"
+        "room": "05.03.05",
+        "mapel": "PEMROGRAMAN WEB",
+        "guru": "Anna Baita, M.Kom"
     },
     {
         "day": "3",
         "start": "10.40",
         "end": "12.20",
-        "room": "L 2.4.1",
-        "mapel": "KOMPUTER GRAFIS",
-        "guru": "Bernadhed, M.Kom"
-    },
-    {
-        "day": "3",
-        "start": "13.20",
-        "end": "15.00",
         "room": "05.03.08",
-        "mapel": "PEMROGRAMAN LANJUT",
-        "guru": "Kamarudin, M.Kom"
+        "mapel": "RISET OPERASI",
+        "guru": "Sri Mulyatun, Dra.,M.M"
     },
     {
         "day": "4",
         "start": "07.00",
         "end": "08.40",
-        "room": "07.02.03",
-        "mapel": "INTERAKSI MANUSIA DAN KOMPUTER",
-        "guru": "Rakhma Shafrida Kurnia, S.Kom., M.Kom"
+        "room": "05.04.02",
+        "mapel": "PEMROGRAMAN BASIS DATA",
+        "guru": "Irwan Oyong, M.Kom"
     },
     {
         "day": "4",
         "start": "08.50",
         "end": "10.30",
-        "room": "L 2.4.2",
-        "mapel": "SISTEM BASIS DATA",
-        "guru": "Nuraini, M.Kom"
+        "room": "05.02.06",
+        "mapel": "SISTEM INFORMASI MANAJEMEN",
+        "guru": "Bambang Sudaryatno, Drs., M.M."
     },
     {
         "day": "4",
-        "start": "13.20",
-        "end": "15.00",
-        "room": "L 7.5.1",
-        "mapel": "JARINGAN KOMPUTER",
-        "guru": "Yudi Sutanto, M. Kom"
+        "start": "10.40",
+        "end": "12.20",
+        "room": "05.03.02",
+        "mapel": "KECAKAPAN ANTAR PERSONAL",
+        "guru": "Nuraini, M.Kom"
     },
     {
         "day": "4",
         "start": "15.30",
         "end": "17.10",
-        "room": "05.02.07",
-        "mapel": "MATEMATIKA DISKRET",
-        "guru": "Dina Maulina, M.Kom"
+        "room": "L 2.4.2 ",
+        "mapel": "PEMROGRAMAN BASIS DATA",
+        "guru": "Irwan Oyong, M.Kom"
     },
     {
         "day": "5",
-        "start": "08.50",
-        "end": "10.30",
-        "room": "05.04.01",
-        "mapel": "BAHASA INGGRIS III",
-        "guru": "Hermenegildus Agus Wibowo, S.sas, M.Hum"
+        "start": "07.00",
+        "end": "08.40",
+        "room": "05.03.02",
+        "mapel": "STATISTIK",
+        "guru": "Kumara Ari Yuana,S.T, M.T"
     },
     {
         "day": "5",
         "start": "10.40",
         "end": "12.20",
         "room": "05.03.08",
-        "mapel": "SISTEM BASIS DATA",
-        "guru": "Nuraini, M.Kom"
+        "mapel": "SISTEM BERKAS DAN KEAMANAN DATA",
+        "guru": "Dwi Nurani, M.Kom"
     },
     {
-        "day": "6",
-        "start": "07.00",
-        "end": "08.40",
-        "room": "L 7.4.3",
-        "mapel": "PRAKTIKUM HARDWARE/ SOFTWARE II",
-        "guru": "Uyock Anggoro Saputro, M.Kom"
+        "day": "5",
+        "start": "13.20",
+        "end": "15.00",
+        "room": "04.04.06",
+        "mapel": "ANALISIS DAN DESAIN SISTEM INFORMASI",
+        "guru": "Sudarmawan, S.T., M.T."
     },
     {
         "day": "6",
         "start": "08.50",
         "end": "10.30",
-        "room": "L 7.4.1",
-        "mapel": "PEMROGRAMAN LANJUT",
-        "guru": "Kamarudin, M.Kom"
+        "room": "L 2.4.5 ",
+        "mapel": "PEMROGRAMAN WEB",
+        "guru": "Anna Baita, M.Kom"
+    },
+    {
+        "day": "6",
+        "start": "15.30",
+        "end": "17.10",
+        "room": "05.02.01",
+        "mapel": "KEPEMIMPINAN",
+        "guru": "Achmad Fauzan, Dr. M.M"
     }
 ]
