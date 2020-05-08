@@ -65,14 +65,6 @@
     },
     {
         "day": "5",
-        "start": "07.00",
-        "end": "08.40",
-        "room": "05.03.02",
-        "mapel": "STATISTIK",
-        "guru": "Kumara Ari Yuana,S.T, M.T"
-    },
-    {
-        "day": "5",
         "start": "10.40",
         "end": "12.20",
         "room": "05.03.08",
