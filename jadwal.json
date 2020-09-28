@@ -1,98 +1,87 @@
 [
     {
+        "day": "2",
+        "start": "07.00",
+        "end": "08.40",
+        "room": "05.02.08",
+        "mapel": "E-BISNIS",
+        "guru": "Subektiningsih, M.Kom"
+    },{
+        "day": "2",
+        "start": "13.20",
+        "end": "15.00",
+        "room": "05.04.04",
+        "mapel": "METODE NUMERIK",
+        "guru": "Arifiyanto Hadinegoro, S.Kom, MT"
+    },{
         "day": "3",
         "start": "07.00",
         "end": "08.40",
-        "room": "05.03.02",
-        "mapel": "STATISTIK",
-        "guru": "Kumara Ari Yuana,S.T, M.T"
-    },
-    {
+        "room": "05.04.06",
+        "mapel": "E-COMMERCE",
+        "guru": "Rifda Faticha Alfa Aziza, S.Kom., M.Kom"
+    },{
         "day": "3",
         "start": "08.50",
         "end": "10.30",
-        "room": "05.03.05",
-        "mapel": "PEMROGRAMAN WEB",
-        "guru": "Anna Baita, M.Kom"
-    },
-    {
-        "day": "3",
-        "start": "10.40",
-        "end": "12.20",
-        "room": "05.03.08",
-        "mapel": "RISET OPERASI",
-        "guru": "Sri Mulyatun, Dra.,M.M"
-    },
-    {
+        "room": "06.02.05",
+        "mapel": "REKAYASA PERANGKAT LUNAK",
+        "guru": "Tuti Rahmawati, M.T.I"
+    },{
         "day": "3",
         "start": "13.20",
         "end": "15.00",
-        "room": "L 7.3.1",
-        "mapel": "STATISTIK",
-        "guru": "Kumara Ari Yuana,S.T, M.T"
-    },
-    {
+        "room": "05.03.08",
+        "mapel": "DATA MINING",
+        "guru": "Mardhiya Hayaty, S.T., M.Kom."
+    },{
         "day": "4",
         "start": "07.00",
         "end": "08.40",
-        "room": "05.04.02",
-        "mapel": "PEMROGRAMAN BASIS DATA",
-        "guru": "Irwan Oyong, M.Kom"
-    },
-    {
+        "room": "L 2.4.5",
+        "mapel": "PEMROGRAMAN WEB LANJUT",
+        "guru": "Ainul Yaqin, M. Kom"
+    },{
         "day": "4",
         "start": "08.50",
         "end": "10.30",
-        "room": "05.02.06",
-        "mapel": "SISTEM INFORMASI MANAJEMEN",
-        "guru": "Bambang Sudaryatno, Drs., M.M."
-    },
-    {
+        "room": "05.03.07",
+        "mapel": "REKAYASA PERANGKAT LUNAK",
+        "guru": "Tuti Rahmawati, M.T.I"
+    },{
         "day": "4",
         "start": "10.40",
         "end": "12.20",
-        "room": "05.03.02",
-        "mapel": "KECAKAPAN ANTAR PERSONAL",
-        "guru": "Nuraini, M.Kom"
-    },
-    {
+        "room": "L 2.4.1",
+        "mapel": "PROGRAM APLIKASI MOBILE",
+        "guru": "Arif Dwi Laksito, M.Kom"
+    },{
+        "day": "4",
+        "start": "13.20",
+        "end": "15.00",
+        "room": "05.04.03",
+        "mapel": "METODOLOGI PENELITIAN",
+        "guru": "Mardhiya Hayaty, S.T., M.Kom."
+    },{
         "day": "4",
         "start": "15.30",
         "end": "17.10",
-        "room": "L 2.4.2 ",
-        "mapel": "PEMROGRAMAN BASIS DATA",
-        "guru": "Irwan Oyong, M.Kom"
-    },
-    {
-        "day": "5",
-        "start": "10.40",
-        "end": "12.20",
-        "room": "05.03.08",
-        "mapel": "SISTEM BERKAS DAN KEAMANAN DATA",
-        "guru": "Dwi Nurani, M.Kom"
-    },
-    {
+        "room": "L 7.3.2",
+        "mapel": "METODE NUMERIK",
+        "guru": "Arifiyanto Hadinegoro, S.Kom, MT"
+    },{
         "day": "5",
         "start": "13.20",
         "end": "15.00",
-        "room": "04.04.06",
-        "mapel": "ANALISIS DAN DESAIN SISTEM INFORMASI",
-        "guru": "Sudarmawan, S.T., M.T."
-    },
-    {
+        "room": "04.04.02",
+        "mapel": "KECERDASAN BUATAN",
+        "guru": "Sumarni Adi, S.Kom, M.Cs"
+    },{
         "day": "6",
-        "start": "08.50",
-        "end": "10.30",
-        "room": "L 2.4.5 ",
-        "mapel": "PEMROGRAMAN WEB",
-        "guru": "Anna Baita, M.Kom"
+        "start": "13.20",
+        "end": "15.00",
+        "room": "05.02.02",
+        "mapel": "PEMROGRAMAN WEB LANJUT",
+        "guru": "Ainul Yaqin, M. Kom"
     },
-    {
-        "day": "6",
-        "start": "15.30",
-        "end": "17.10",
-        "room": "05.02.01",
-        "mapel": "KEPEMIMPINAN",
-        "guru": "Achmad Fauzan, Dr. M.M"
-    }
 ]
