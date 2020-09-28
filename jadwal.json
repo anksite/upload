@@ -6,77 +6,88 @@
         "room": "05.02.08",
         "mapel": "E-BISNIS",
         "guru": "Subektiningsih, M.Kom"
-    },{
+    },
+    {
         "day": "2",
         "start": "13.20",
         "end": "15.00",
         "room": "05.04.04",
         "mapel": "METODE NUMERIK",
         "guru": "Arifiyanto Hadinegoro, S.Kom, MT"
-    },{
+    },
+    {
         "day": "3",
         "start": "07.00",
         "end": "08.40",
         "room": "05.04.06",
         "mapel": "E-COMMERCE",
         "guru": "Rifda Faticha Alfa Aziza, S.Kom., M.Kom"
-    },{
+    },
+    {
         "day": "3",
         "start": "08.50",
         "end": "10.30",
         "room": "06.02.05",
         "mapel": "REKAYASA PERANGKAT LUNAK",
         "guru": "Tuti Rahmawati, M.T.I"
-    },{
+    },
+    {
         "day": "3",
         "start": "13.20",
         "end": "15.00",
         "room": "05.03.08",
         "mapel": "DATA MINING",
         "guru": "Mardhiya Hayaty, S.T., M.Kom."
-    },{
+    },
+    {
         "day": "4",
         "start": "07.00",
         "end": "08.40",
         "room": "L 2.4.5",
         "mapel": "PEMROGRAMAN WEB LANJUT",
         "guru": "Ainul Yaqin, M. Kom"
-    },{
+    },
+    {
         "day": "4",
         "start": "08.50",
         "end": "10.30",
         "room": "05.03.07",
         "mapel": "REKAYASA PERANGKAT LUNAK",
         "guru": "Tuti Rahmawati, M.T.I"
-    },{
+    },
+    {
         "day": "4",
         "start": "10.40",
         "end": "12.20",
         "room": "L 2.4.1",
         "mapel": "PROGRAM APLIKASI MOBILE",
         "guru": "Arif Dwi Laksito, M.Kom"
-    },{
+    },
+    {
         "day": "4",
         "start": "13.20",
         "end": "15.00",
         "room": "05.04.03",
         "mapel": "METODOLOGI PENELITIAN",
         "guru": "Mardhiya Hayaty, S.T., M.Kom."
-    },{
+    },
+    {
         "day": "4",
         "start": "15.30",
         "end": "17.10",
         "room": "L 7.3.2",
         "mapel": "METODE NUMERIK",
         "guru": "Arifiyanto Hadinegoro, S.Kom, MT"
-    },{
+    },
+    {
         "day": "5",
         "start": "13.20",
         "end": "15.00",
         "room": "04.04.02",
         "mapel": "KECERDASAN BUATAN",
         "guru": "Sumarni Adi, S.Kom, M.Cs"
-    },{
+    },
+    {
         "day": "6",
         "start": "13.20",
         "end": "15.00",
