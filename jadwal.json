@@ -25,14 +25,6 @@
     },
     {
         "day": "3",
-        "start": "08.50",
-        "end": "10.30",
-        "room": "06.02.05",
-        "mapel": "REKAYASA PERANGKAT LUNAK",
-        "guru": "Tuti Rahmawati, M.T.I"
-    },
-    {
-        "day": "3",
         "start": "13.20",
         "end": "15.00",
         "room": "05.03.08",
@@ -78,6 +70,14 @@
         "room": "L 7.3.2",
         "mapel": "METODE NUMERIK",
         "guru": "Arifiyanto Hadinegoro, S.Kom, MT"
+    },
+    {
+        "day": "3",
+        "start": "08.50",
+        "end": "10.30",
+        "room": "06.02.05",
+        "mapel": "REKAYASA PERANGKAT LUNAK",
+        "guru": "Tuti Rahmawati, M.T.I"
     },
     {
         "day": "5",
