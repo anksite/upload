@@ -41,14 +41,6 @@
     },
     {
         "day": "4",
-        "start": "08.50",
-        "end": "10.30",
-        "room": "05.03.07",
-        "mapel": "REKAYASA PERANGKAT LUNAK",
-        "guru": "Tuti Rahmawati, M.T.I"
-    },
-    {
-        "day": "4",
         "start": "10.40",
         "end": "12.20",
         "room": "L 2.4.1",
@@ -86,6 +78,14 @@
         "room": "04.04.02",
         "mapel": "KECERDASAN BUATAN",
         "guru": "Sumarni Adi, S.Kom, M.Cs"
+    },
+    {
+        "day": "6",
+        "start": "08.50",
+        "end": "10.30",
+        "room": "05.03.07",
+        "mapel": "REKAYASA PERANGKAT LUNAK",
+        "guru": "Tuti Rahmawati, M.T.I"
     },
     {
         "day": "6",
